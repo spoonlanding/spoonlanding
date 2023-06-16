@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Spencer
 
 ### About Me
-I’m a full stack web developer focused on NodeJS/Typescript, modern front end solutions, and cloud architecture.
+I’m a web architect focused on NodeJS/Typescript, modern front end solutions, and cloud architecture.
 
 - [linkedIn](https://www.linkedin.com/in/spoonlanding/)
 
